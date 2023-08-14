@@ -17,7 +17,7 @@ const Breadcrumb2 = (props:any) => {
     >            
         </div>
         <div className='absolute z-1'>
-        <h1 className='text-white text-7xl font-bold'>{props.props}</h1>
+        <h1 className='text-center text-white text-7xl font-bold'>{props.props}</h1>
 
         </div>
     </div>

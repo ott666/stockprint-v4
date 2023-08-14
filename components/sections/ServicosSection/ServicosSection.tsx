@@ -4,7 +4,7 @@ import  Container from '@/components/components/Container'
 import CardServico2 from '@/components/sections/ServicosSection/CardServico/CardServico2'
 const ServicosSection = () => {
   return (
-    <section className={`
+    <section id='servicos' className={`
     bg-blue-600
     `}>
 

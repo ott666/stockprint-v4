@@ -5,7 +5,7 @@ import ButtonWhite from "@/components/components/ButtonWhite";
 export default function CardHero(){
     return(
         <div className={`
-        w-full 
+        w-full max-w-[400px] sm:max-w-[550px]
         h-fit
         rounded-[40px]
         px-[20px]
@@ -20,7 +20,7 @@ export default function CardHero(){
             
             leading-8
             font-bold
-            `}>Referencia em identificacao</h1>
+            `}>Referência em identificação</h1>
         
             <p className={`
             text-white
@@ -34,7 +34,7 @@ export default function CardHero(){
             
             `}>
                 <Button>Impressoras</Button>
-                <ButtonWhite>Ribbons</ButtonWhite>
+                <ButtonWhite>Serviços</ButtonWhite>
             </div>
             
         </div>

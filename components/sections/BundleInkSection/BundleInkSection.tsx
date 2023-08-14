@@ -5,7 +5,7 @@ import Produtos from "@/data/products.json"
 
 
 export default function BundleInkSection(){
-    const itensBundle=['ink1000','cartucho','045000','084051']
+    const itensBundle=['ink1000','cartucho','software','cartaopvc']
 
 
     const result = Produtos.filter((produto)=>{
@@ -16,7 +16,7 @@ export default function BundleInkSection(){
 
     console.log(result,'aaaaqui')
     return(
-        <section className="bg-blue-600 h-fit ">
+        <section id='bundle'className="bg-blue-600 h-fit ">
         <Container>
          <h1 className={`
          text-white
@@ -48,7 +48,7 @@ export default function BundleInkSection(){
                 xl:mr-[50px]
                 xl:translate-y-[-60px]
                 `}>
-                    <button className={`
+                    <Link className={`
                 text-sm xl:text-7xl
                 invisible xl:visible
                 bg-green-400
@@ -62,8 +62,9 @@ export default function BundleInkSection(){
                 right-[50%]
                 translate-x-[50%]
                 -tracking-wider
-                font-bold
-                bottom-[0]`}>Whatsapp</button>
+                font-bold text-center
+                bottom-[0]`}
+                href={'https://wa.me/5516992974070?text=Oi%2C+gostaria+de+mais+detalhes'}>Whatsapp</Link>
                 </div>
                 
             </div>
@@ -143,7 +144,7 @@ export default function BundleInkSection(){
                 xl:translate-y-[-40px]
                 pt-5`}>
                    {result.map((itemBundle)=>{
-                    return <Cardbundle alt={itemBundle.pseudo} bgColor="blue" pseudo={itemBundle.pseudo} genre={itemBundle.genre} imgPath={`/${itemBundle.pseudo}/${itemBundle.pseudo}1.png`} subtitle={itemBundle.subt} subtitle2={itemBundle.subt2} title={itemBundle.title} key={itemBundle.id}/>
+                    return  <Cardbundle url={itemBundle.url} alt={itemBundle.pseudo} bgColor="white" pseudo={itemBundle.pseudo} genre={itemBundle.genre} imgPath={`/${itemBundle.pseudo}/${itemBundle.pseudo}1.png`} subtitle={itemBundle.subt} subtitle2={itemBundle.subt2} title={itemBundle.title} key={itemBundle.id}/>
                    })}
 
                 </div>

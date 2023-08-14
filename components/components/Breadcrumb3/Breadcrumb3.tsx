@@ -16,7 +16,7 @@ const Breadcrumb3 = (props:any) => {
         
     >            
         </div>
-            <h1 className='text-white text-4xl text-center font-bold'>{`${props.props.h1}`}</h1>
+            <h1 className='text-white  text-4xl text-center font-bold'>{`${props.props.h1}`}</h1>
     </div>
     
     

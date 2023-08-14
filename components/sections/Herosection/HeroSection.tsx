@@ -13,11 +13,11 @@ export default function HeroSection(){
             flex 
             flex-col items-center justify-start
             md:flex-row-reverse md:justify-between
-        
+        py-0
         px-0 lg:px-0
         pt-28
-        gap-y-3 
-        pb-2 md:pb-0
+         
+         md:pb-0
         `}>
             <div className={`
             h-full
@@ -35,7 +35,7 @@ export default function HeroSection(){
                     <video autoPlay muted loop src="/video/video1.mp4"></video>
                 </div>
             </div>
-            <div className="w-full px-2 py-2  bg-gradienteAzulRisk h-full flex flex-col justify-center max-w-[400px] sm:max-w-[550px]">
+            <div className="w-full px-2 py-2  bg-gradienteAzulRisk h-full flex flex-col justify-center items-center ">
             <CardHero/>        
             </div>
         </div>

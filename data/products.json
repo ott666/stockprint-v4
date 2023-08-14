@@ -1,5 +1,5 @@
 [
-{"id":1,"title":"HID Fargo INK1000","genre":"impressora", "pseudo":"ink1000", "subt":"Imprime sem bordas",
+{"id":1,"title":"HID Fargo INK1000","genre":"impressoras", "url":"impressora", "pseudo":"ink1000", "subt":"Imprime sem bordas",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -8,8 +8,8 @@
 "ribbonComp":"cartucho",
 "descriptions":
         [
-            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
-            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+            "Apresentamos a Impressora INK1000 da linha FARGO®, uma solução compacta e eficiente para suas necessidades de impressão. Com sua capacidade versátil de imprimir em cores vibrantes, tons monocromáticos e até mesmo reemissão em preto, a INK1000 oferece um leque abrangente de opções.",
+            "Além disso, com recursos avançados para a codificação de chips (módulos smart card), esta impressora oferece flexibilidade adicional para suas demandas de impressão. Realiza impressão sem bordas e não utiliza cabeça de impressão."
         ],
 "frases":
         [
@@ -18,7 +18,7 @@
             "Personaliza até 600 cartões monocromáticos por hora (K)"
         ]
 },
-{"id":2,"title":"HID Fargo DTC1500","genre":"impressora", "pseudo":"dtc1500", "subt":"Impressora Direct-To-Card",
+{"id":2,"title":"HID Fargo DTC1500","genre":"impressoras", "url":"impressora", "pseudo":"dtc1500", "subt":"Impressora Direct-To-Card",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -27,8 +27,8 @@
 "ribbonComp":"",
 "descriptions":
         [
-            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
-            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+            "A Impressora DTC1500 da FARGO® é a escolha perfeita para emissões eficientes e seguras de cartões, crachás e credenciais. Sua construção compacta e eficaz garante operação descomplicada e baixo custo de manutenção.",
+            "A DTC1500 atende tanto às necessidades de pequenas como médias empresas, oferecendo qualidade excepcional de impressão e recursos de personalização avançados. Com opções de conectividade que incluem Ethernet e Wi-Fi, essa impressora proporciona uma solução completa para suas demandas de impressão."
         ],   
 "frases":
         [
@@ -37,7 +37,7 @@
             "Personaliza até 600 cartões monocromáticos por hora (K)"
         ]
 },
-{"id":3,"title":"HID Fargo DTC1250e Single","genre":"impressora", "pseudo":"dtc1250e_single", "subt":"Impressora Direct-To-Card",
+{"id":3,"title":"HID Fargo DTC1250e Single","genre":"impressoras", "url":"impressora", "pseudo":"dtc1250e_single", "subt":"Impressora Direct-To-Card",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -72,7 +72,7 @@
             "Conectividade sem fio com acessório Wi-Fi, em impressoras habilitadas para Ethernet (Opcional)"
         ]
 },
-{"id":4,"title":"HID Fargo DTC1250e Dual","genre":"impressora", "pseudo":"dtc1250e_dual", "subt":"Impressora Direct-To-Card",
+{"id":4,"title":"HID Fargo DTC1250e Dual","genre":"impressoras", "url":"impressora", "pseudo":"dtc1250e_dual", "subt":"Impressora Direct-To-Card",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -81,8 +81,8 @@
 "ribbonComp":["045102", "045000", "045010"],
 "descriptions":
         [
-            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
-            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+                "A Impressora FARGO® DTC1250e Dual-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Dual-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
         ],
 "frases":
         [
@@ -91,7 +91,7 @@
             "Personaliza até 600 cartões monocromáticos por hora (K)"
         ]
 },
-{"id":5,"title":"HID Fargo HDP5000","genre":"impressora", "pseudo":"hdp5000", "subt":"Imprime sem bordas",
+{"id":5,"title":"HID Fargo HDP5000","genre":"impressoras", "url":"impressora", "pseudo":"hdp5000", "subt":"Imprime sem bordas",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -100,8 +100,8 @@
 "ribbonComp":["072214", "084053", "084051", "072213", "082601"],
 "descriptions":
         [
-            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
-            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+            "Introduzimos a Impressora HDP5000 da FARGO®, uma solução de impressão de alta definição que atende a projetos exigentes. Com sua capacidade de impressão de qualidade superior e recursos avançados de codificação, a HDP5000 é a escolha ideal para projetos que priorizam segurança e personalização.",
+            "Sua tecnologia de alta definição garante resultados impressionantes. Com conectividade Ethernet e outras funcionalidades avançadas, esta impressora oferece desempenho confiável e eficiência em cada impressão."
         ],
 "frases":
         [
@@ -110,7 +110,7 @@
             "Personaliza até 600 cartões monocromáticos por hora (K)"
         ]
 },
-{"id":6,"title":"HID Fargo HDP6600","genre":"impressora", "pseudo":"hdp6600", "subt":"Imprime sem bordas",
+{"id":6,"title":"HID Fargo HDP6600","genre":"impressoras", "url":"impressora", "pseudo":"hdp6600", "subt":"Imprime sem bordas",
 "rendimento":"null",
 "tipo":"null",
 "marca":"HID FARGO",
@@ -119,8 +119,8 @@
 "ribbonComp":["084911", "084900"],
 "descriptions":
         [
-            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
-            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+                 "Apresentamos a Impressora HDP6600 da FARGO®, uma solução definitiva para impressões de cartões em alta definição. Projetada para atender a demandas altamente exigentes, a HDP6600 oferece recursos avançados de codificação e personalização, garantindo a máxima qualidade e segurança em cada cartão impresso.",
+            "Sua conectividade abrangente, que inclui opções Ethernet e Wi-Fi, proporciona conveniência e eficiência. Se você busca a mais alta qualidade, eficiência e confiabilidade em suas impressões de cartões, a HDP6600 é a escolha ideal."
         ],
 "frases":
         [
@@ -130,7 +130,7 @@
         ]
 },
 
-{"id":7,"title":"Ribbon #045102","genre":"ribbons", "pseudo":"045102", "subt":"Até 1000 impressões",
+{"id":7,"title":"Ribbon #045102", "genre":"ribbons", "url":"ribbons", "pseudo":"045102", "subt":"Até 1000 impressões",
 "rendimento":"1000 impressões",
 "tipo":"Black - K",
 "marca":"HID FARGO",
@@ -150,7 +150,7 @@
           ""
         ]
 },
-{"id":8,"title":"Ribbon #045432 - YMCKO ","genre":"ribbons", "pseudo":"045432", "subt":"Até 250 impressões",
+{"id":8,"title":"Ribbon #045432 - YMCKO ", "genre":"ribbons", "url":"ribbons", "pseudo":"045432", "subt":"Até 250 impressões",
 "rendimento":"250 impressões",
 "tipo":"Color - YMCKO",
 "marca":"HID FARGO",
@@ -170,7 +170,7 @@
           ""
         ]
 },
-{"id":9,"title":"Ribbon #072214 - YMCK","genre":"ribbons", "pseudo":"072214", "subt":"Até 500 impressões",
+{"id":9,"title":"Ribbon #072214 - YMCK", "genre":"ribbons", "url":"ribbons", "pseudo":"072214", "subt":"Até 500 impressões",
 "rendimento":"500 impressões",
 "tipo":"Color - YMCK",
 "marca":"HID FARGO",
@@ -192,7 +192,7 @@
           ""
         ]
 },
-{"id":10,"title":"Ribbon #045010 - YMCKOK","genre":"ribbons", "pseudo":"045010", "subt":"Até 200 impressões",
+{"id":10,"title":"Ribbon #045010 - YMCKOK", "genre":"ribbons", "url":"ribbons", "pseudo":"045010", "subt":"Até 200 impressões",
 "rendimento":"200 impressões",
 "tipo":"Color - YMCKOK",
 "marca":"HID FARGO",
@@ -213,7 +213,7 @@
           ""
         ]
 },
-{"id":11,"title":"Ribbon #045106 - W","genre":"ribbons", "pseudo":"045106", "subt":"Até 1000 impressões",
+{"id":11,"title":"Ribbon #045106 - W", "genre":"ribbons", "url":"ribbons", "pseudo":"045106", "subt":"Até 1000 impressões",
 "rendimento":"1000 impressões",
 "tipo":"White - W",
 "marca":"HID FARGO",
@@ -233,7 +233,7 @@
           ""
         ]
 },
-{"id":12,"title":"Ribbon #072213 - YMCK","genre":"ribbons", "pseudo":"072213", "subt":"Até 750 impressões",
+{"id":12,"title":"Ribbon #072213 - YMCK", "genre":"ribbons", "url":"ribbons", "pseudo":"072213", "subt":"Até 750 impressões",
 "rendimento":"750 impressões",
 "tipo":"Filme Retransfer",
 "marca":"HID FARGO",
@@ -254,7 +254,7 @@
           ""
         ]
 },
-{"id":13,"title":"Ribbon #045610 - YMCKO ","genre":"ribbons", "pseudo":"045610", "subt":"Até 500 impressões",
+{"id":13,"title":"Ribbon #045610 - YMCKO ", "genre":"ribbons", "url":"ribbons", "pseudo":"045610", "subt":"Até 500 impressões",
 "rendimento":"500 impressões",
 "tipo":"Color - YMCKO",
 "marca":"HID FARGO",
@@ -274,7 +274,7 @@
           ""
         ]
 },
-{"id":14,"title":"Pelicula Polyguard #082601 ","genre":"ribbons", "pseudo":"082601", "subt":"Até 250 impressões ",
+{"id":14,"title":"Pelicula Polyguard #082601 ", "genre":"ribbons", "url":"ribbons", "pseudo":"082601", "subt":"Até 250 impressões ",
 "rendimento":"250 impressões",
 "tipo":"Polyguard Overlaminate",
 "marca":"HID FARGO",
@@ -296,7 +296,7 @@
           ""
         ]
 },
-{"id":15,"title":"Filme Retransfer #084900","genre":"ribbons", "pseudo":"084900", "subt":"Até 1500 impressões",
+{"id":15,"title":"Filme Retransfer #084900", "genre":"ribbons", "url":"ribbons", "pseudo":"084900", "subt":"Até 1500 impressões",
 "rendimento":"1500 impressões",
 "tipo":"Filme Retransfer",
 "marca":"HID FARGO",
@@ -315,7 +315,7 @@
           ""
         ]
 },
-{"id":16,"title":"Ribbon #084911 - YMCK ","genre":"ribbons", "pseudo":"084911", "subt":"750 faces coloridas",
+{"id":16,"title":"Ribbon #084911 - YMCK ", "genre":"ribbons", "url":"ribbons", "pseudo":"084911", "subt":"750 faces coloridas",
 "rendimento":"750 impressões",
 "tipo":"Color - YMCK",
 "marca":"HID FARGO",
@@ -335,7 +335,7 @@
           ""
         ]
 },
-{"id":17,"title":"Ribbon #84051 - YMCK","genre":"ribbons", "pseudo":"084051", "subt":"Até 500 impressões",
+{"id":17,"title":"Ribbon #84051 - YMCK", "genre":"ribbons", "url":"ribbons", "pseudo":"084051", "subt":"Até 500 impressões",
 "rendimento":"500 impressões",
 "tipo":"Color - YMCK",
 "marca":"HID FARGO",
@@ -355,7 +355,7 @@
           ""
         ]
 },
-{"id":18,"title":"Cartucho de Tinta - YMC","genre":"ribbons", "pseudo":"cartucho", "subt":"Até 1300 impressões",
+{"id":18,"title":"Cartucho de Tinta - YMC", "genre":"ribbons", "url":"ribbons", "pseudo":"cartucho", "subt":"Até 1300 impressões",
 "rendimento":"1300 impressões",
 "tipo":"Color - YMC",
 "marca":"HID FARGO",
@@ -375,7 +375,7 @@
           ""
         ]
 },
-{"id":19,"title":"Ribbon #045000 - YMCKO","genre":"ribbons", "pseudo":"045000", "subt":"Até 250 impressões",
+{"id":19,"title":"Ribbon #045000 - YMCKO", "genre":"ribbons", "url":"ribbons", "pseudo":"045000", "subt":"Até 250 impressões",
 "rendimento":"250 impressões",
 "tipo":"Color - YMCKO",
 "marca":"HID FARGO",
@@ -395,7 +395,7 @@
           ""
         ]
 },
-{"id":20,"title":"Filme Retransfer #084053 ","genre":"ribbons", "pseudo":"084053", "subt":"Até 750 impressões",
+{"id":20,"title":"Filme Retransfer #084053 ", "genre":"ribbons", "url":"ribbons", "pseudo":"084053", "subt":"Até 750 impressões",
 "rendimento":"750 impressões",
 "tipo":"Filme Retransfer",
 "marca":"HID FARGO",
@@ -408,6 +408,42 @@
                 "Fabricante: HID FARGO",
                 "Rendimento: 750 faces (independente da cor)",
                 "Atenção: este Filme deve ser usado juntamente com o Ribbon #084051"  
+        ]
+        ,
+"frases":
+        [
+                ""
+        ]
+},
+{"id":21,"title":"Software Asure ID 7 ","genre":"Software", "url":"software", "pseudo":"software", "subt":"Crie seus layouts",
+"rendimento":"null",
+"tipo":"Software",
+"marca":"HID FARGO",
+"subt2":"Licença Vitalícia",
+"impComp":"null",
+"ribbonComp":"null",
+"descriptions":
+        [
+                "o software líder da HID Global para o gerenciamento de layouts de cartões: Asure ID 7. Projetado para oferecer uma experiência de gerenciamento simplificada e eficiente, o Asure ID 7 proporciona um ambiente intuitivo para criar e personalizar layouts de cartões. Com uma ampla gama de ferramentas e opções de design, você pode facilmente criar designs vibrantes e profissionais que atendam às suas necessidades específicas. ",
+                "Além disso, o software oferece recursos avançados de codificação e segurança, garantindo que seus cartões estejam protegidos e personalizados de acordo com os mais altos padrões. Seja para crachás de identificação ou cartões de acesso, o Asure ID 7 é a solução completa para a gestão eficaz de layouts de cartões."
+        ]
+        ,
+"frases":
+        [
+                ""
+        ]
+},
+{"id":22,"title":"Cartão PVC Branco","genre":"cartão", "url":"cartoes", "pseudo":"cartaopvc", "subt":"Pacote 100 unidades",
+"rendimento":"null",
+"tipo":"Cartão",
+"marca":"HID FARGO",
+"subt2":"Padrão CR-80",
+"impComp":"null",
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Apresentamos o Cartão PVC Branco CR-80, uma solução versátil e confiável para suas necessidades de personalização. Com um formato padrão e durável, este cartão oferece a base perfeita para impressões nítidas e de alta qualidade. ",
+                "Seja para identificação, controle de acesso ou outros fins, o Cartão PVC Branco CR-80 é ideal para receber impressões vívidas e dados personalizados. Sua construção resistente garante que os resultados permaneçam legíveis e profissionais ao longo do tempo, tornando-o a escolha ideal para uma variedade de aplicações."  
         ]
         ,
 "frases":

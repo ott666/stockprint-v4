@@ -57,8 +57,6 @@ const Footer = () => {
                     text-xl md:text-sm '>
                     <li className='py-2'> <a href="/">Home</a></li>
                     <li className='py-2'> <a href="/servicos">Serviços</a></li>
-                    <li className='py-2'> <a href="/contato">Contato</a></li>
-                    <li className='py-2'> <a href="/sobre">Sobre</a></li>
                     </ul>
                 </div>
                 
@@ -69,8 +67,6 @@ const Footer = () => {
                     text-xl md:text-sm  '>
                     <li className='py-2'> <a href="/produtos">- Impressoras</a></li>
                     <li className='py-2'> <a href="/produtos">- Ribbons</a></li>
-                    <li className='py-2'> <a href="/produtos">- Limpeza</a></li>
-                    <li className='py-2'> <a href="/produtos">- Etiquetas</a></li>
                     </ul>
                 </div>
 

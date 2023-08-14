@@ -36,6 +36,7 @@ const ListaProdutos = ({ selectedGenre }: Props) => {
             genre={product.genre}
             pseudo={product.pseudo}
             key={product.pseudo}
+            url={product.url}
           / >
           
         );

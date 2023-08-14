@@ -10,13 +10,12 @@ export function Header(){
     const navLinks =
 [
     {link:'/', nome:'Home'},
-    {link:'/servicos', nome:'Servicos'},
+    {link:'/servicos', nome:'Serviços'},
     {link:'/produtos', nome:'Produtos'},
-    {link:'/contato', nome:'Contato'},
 
 ]
     return(
-        <header className='fixed top-0 z-10 flex items-center w-screen h-28 bg-blue-700 font-sans'>
+        <header className='fixed top-0 z-50 flex items-center w-screen h-28 bg-blue-700 font-sans'>
             <Container>
                 <div className='flex items-center gap-14 h-full justify-between'>
                     <Link href={'/'}>

@@ -12,11 +12,12 @@ interface CardbundleProps{
     pseudo:string
     alt:string
     key?:string | number
+    url:string
 }
 
 export default function Cardbundle(props:CardbundleProps){
     return(
-        <Link href={`/produtos/${props.genre}/${props.pseudo}`} className={`
+        <Link href={`/produtos/${props.url}/${props.pseudo}`} className={`
         w-[325px] mm:w-[375px]  lg:w-[280px]  2xl:w-[280px] 3xl:w-[300px] 
         h-[294px] mm:h-[347.5px]  lg:h-[235px] xl:h-[266px]
         relative

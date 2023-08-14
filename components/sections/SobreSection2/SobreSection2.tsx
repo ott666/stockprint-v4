@@ -4,10 +4,10 @@ import Link from "next/link";
 import React from "react";
 export default function SobreSection2(){
     return(
-        <section className="bg-blue-600 xl:pt-5 3xl:pt-0">
+        <section className="bg-blue-600 pt-5 xl:pt-5 3xl:pt-0">
        <Container>
        <h1 className={`
-                text-6xl font-bold text-center xl:pt-8 xl:pb-5 3xl:pt-0 3xl:pb-0
+                text-6xl font-bold text-center xl:pt-8 xl:pb-5 3xl:pt-5 3xl:pb-0 
                 `}>Parceiros HID </h1>
             <div className={`
                     flex flex-col md:flex-row 
@@ -63,7 +63,7 @@ export default function SobreSection2(){
                                 3xl:mt-5
 
                             `}>
-                            <Link href='/' >Saiba mais</Link>
+                            <Link href='https://www.hidglobal.com/partners/stockprint-2913' >Saiba mais</Link>
                         </button>
                 </div>
 
