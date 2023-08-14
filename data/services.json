@@ -1,0 +1,90 @@
+[
+    {
+        "îd":"0",
+        "h1":
+        "Desenvolvimento de Layouts",  
+        "t1":
+        "Nossos especialistas em design estão prontos para criar layouts de crachás únicos e profissionais que atendam às suas necessidades de identificação. Cada detalhe é cuidadosamente considerado para garantir a representação precisa da sua marca e informações essenciais.", 
+        "t2":
+        "A personalização é a chave para um crachá eficaz. Com nossa equipe de design altamente qualificada, transformamos suas ideias em layouts impressionantes. Cada elemento visual é escolhido com cuidado, resultando em crachás que não apenas identificam, mas também deixam uma impressão duradoura.", 
+        "t3":
+        " Sabemos que a identidade visual é crucial. Portanto, nosso serviço de desenvolvimento de layouts de crachás é projetado para transmitir profissionalismo e coerência. Desde cores até tipografia, criamos layouts que unificam a aparência dos crachás e reforçam a imagem da sua empresa.",
+        "url":"desenvolvimento-de-layouts",
+        "bg":"/servicos/layoutBg.jpg"
+
+    },
+    {
+        "îd":"1",
+        "h1":
+        "Consertamos sua impressora",  
+        "t1":
+        "Problemas com sua impressora de crachás? Não se preocupe! Nossa equipe técnica altamente treinada está pronta para diagnosticar e resolver qualquer problema que sua impressora possa enfrentar. Restauramos o funcionamento perfeito para que você possa continuar produzindo crachás sem interrupções.", 
+        "t2":
+        "Impressoras de crachás são essenciais para um fluxo de trabalho contínuo. Quando algo dá errado, nossa equipe de especialistas entra em ação. Desde problemas de alimentação de cartões até questões de qualidade de impressão, estamos aqui para devolver sua impressora à sua condição ótima.", 
+        "t3":
+        "Entendemos que uma impressora defeituosa pode atrasar seus processos. Com nossa assistência técnica especializada em impressoras de crachás, garantimos soluções rápidas e eficientes. Sua satisfação é nossa prioridade, e nos esforçamos para manter suas operações sem problemas.",
+        "url":"consertamos-sua-impressora",
+        "bg":"/servicos/bgConsertamos.jpg"
+
+    },
+    {
+        "îd":"2",
+        "h1":
+        "Garantia Total",  
+        "t1":
+        "Na Stockprint, a satisfação do cliente é nossa principal prioridade. É por isso que oferecemos uma garantia total em todos os nossos produtos e serviços. Seja a compra de uma impressora de crachás ou o desenvolvimento de layouts personalizados, você pode contar conosco para garantir que sua experiência seja sem preocupações.", 
+        "t2":
+        "Nossa garantia abrangente é um reflexo do nosso compromisso com a qualidade. Estamos confiantes na durabilidade e no desempenho de nossos produtos, e estamos prontos para resolver qualquer problema que possa surgir. Sua confiança em nós é fundamental, e nossa garantia total é uma expressão desse compromisso.", 
+        "t3":
+        "Acreditamos que a garantia total é uma extensão natural da nossa dedicação ao cliente. Independentemente de você precisar de assistência técnica, substituição de peças ou suporte, estamos aqui para ajudar. Sua tranquilidade é nosso objetivo, e nossa garantia é um passo em direção a isso.",
+        "url":"garantia-total",
+        "bg":"/servicos/bgGarantia.jpg"
+
+
+    },
+    {
+        "îd":"3",
+        "h1":
+        "Desvendando oportunidades",  
+        "t1":
+        "Na Stockprint, enxergamos mais do que apenas produtos e serviços. Vemos oportunidades esperando para serem exploradas. Nosso compromisso é fornecer soluções de identificação que vão além do básico, abrindo portas para novas possibilidades e vantagens competitivas para sua empresa.", 
+        "t2":
+        "Cada crachá é uma oportunidade de representar sua marca de maneira única. Com nossos produtos e serviços, ajudamos você a desvendar a verdadeira essência da sua identidade corporativa. Criamos crachás que não apenas identificam, mas também comunicam sua visão, valores e diferenciais.", 
+        "t3":
+        "Trabalhamos lado a lado com você para entender suas metas e objetivos. Nossa abordagem personalizada resulta em soluções de identificação que vão além das expectativas, permitindo que você se destaque em um mercado cada vez mais competitivo.",
+        "url":"desvendando-oportunidades",
+        "bg":"/servicos/bgOportunidades.jpg"
+
+
+    },
+    {
+        "îd":"4",
+        "h1":
+        "Entregas para todo o Brasil",  
+        "t1":
+        "Não importa onde você esteja localizado no Brasil, nossa equipe está pronta para entregar nossos produtos diretamente até você. Nossa rede de distribuição abrangente nos permite alcançar todos os cantos do país, garantindo que você tenha acesso aos melhores produtos de identificação, não importa a sua localização.", 
+        "t2":
+        "Sabemos o quanto a eficiência na entrega é crucial para o sucesso dos seus projetos. Com nossa promessa de entregas para todo o Brasil, você pode confiar em nós para cumprir prazos e garantir que seus produtos cheguem com segurança e rapidez. Sua conveniência é nossa prioridade.", 
+        "t3":
+        "Amplie seus horizontes sem se preocupar com a logística. Com nossa capacidade de entrega nacional, você pode se concentrar no que faz de melhor, enquanto cuidamos da entrega dos seus produtos de identificação exatamente onde você precisa.",
+        "url":"entregas-para-todo-o-brasil",
+        "bg":"/servicos/bgEntregas.jpg"
+
+
+    },
+    {
+        "îd":"5",
+        "h1":
+        "Orçamentos rápidos",  
+        "t1":
+        "Sabemos que seu tempo é valioso. É por isso que oferecemos um serviço de orçamentos rápidos e transparentes. Basta nos fornecer os detalhes do seu projeto e, em pouco tempo, você receberá um orçamento detalhado que se alinha às suas necessidades e ao seu orçamento.", 
+        "t2":
+        "Nossos orçamentos rápidos são projetados para agilizar o processo de tomada de decisão. Quer você esteja planejando a compra de uma impressora de crachás ou o desenvolvimento de layouts personalizados, nossa abordagem eficiente garante que você tenha as informações necessárias ao seu alcance.", 
+        "t3":
+        "Com a Stockprint, você pode tomar decisões informadas sem demora. Valorizamos a transparência e a clareza em nossos processos, permitindo que você planeje com confiança e siga em frente com seus projetos de identificação.",
+        "url":"orcamentos-rapidos",
+        "bg":"/servicos/bgOrcamentos.jpg"
+
+
+    }
+]

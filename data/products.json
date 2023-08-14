@@ -1,0 +1,418 @@
+[
+{"id":1,"title":"HID Fargo INK1000","genre":"impressora", "pseudo":"ink1000", "subt":"Imprime sem bordas",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Não utiliza cabeça",
+"impComp":"null",
+"ribbonComp":"cartucho",
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)"
+        ]
+},
+{"id":2,"title":"HID Fargo DTC1500","genre":"impressora", "pseudo":"dtc1500", "subt":"Impressora Direct-To-Card",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Impressão Dual-Sided",
+"impComp":"null",
+"ribbonComp":"",
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],   
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)"
+        ]
+},
+{"id":3,"title":"HID Fargo DTC1250e Single","genre":"impressora", "pseudo":"dtc1250e_single", "subt":"Impressora Direct-To-Card",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Impressão Single-Sided",
+"impComp":"",
+"ribbonComp":["045102", "045000", "045010"],
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)",
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)",
+            "Resolução de impressão de 300 dpi, 256 tons de cores por painel",
+            "Alimentação automática com bandeja de entrada para até 100 cartões (0,76mm)",
+            "Bandeja de saída para até 30 cartões (0,76mm)",
+            "Fácil acesso e troca de suprimentos economizando tempo e evitando desperdícios",
+            "Projetada com a tecnologia Genuine HID, a máquina é interoperável com outros produtos do ecossistema HID",
+            "Aplicativo de criação de crachás integrado Swift ID",
+            "Utilitário de diagnóstico FARGO Workbench com correspondência de cores Color Assist",
+            "Botões de status que mudam de cor",
+            "Conectividade USB",
+            "Codificador de tarja magnética (Opcional)",
+            "Módulo de gravação de cartões inteligentes - smart cards (Opcional)",
+            "Ethernet com servidor de impressão interno (Opcional)",
+            "Conectividade sem fio com acessório Wi-Fi, em impressoras habilitadas para Ethernet (Opcional)"
+        ]
+},
+{"id":4,"title":"HID Fargo DTC1250e Dual","genre":"impressora", "pseudo":"dtc1250e_dual", "subt":"Impressora Direct-To-Card",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Impressão Dual-Sided",
+"impComp":"null",
+"ribbonComp":["045102", "045000", "045010"],
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)"
+        ]
+},
+{"id":5,"title":"HID Fargo HDP5000","genre":"impressora", "pseudo":"hdp5000", "subt":"Imprime sem bordas",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Impressão Dual-Sided ",
+"impComp":"null",
+"ribbonComp":["072214", "084053", "084051", "072213", "082601"],
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)"
+        ]
+},
+{"id":6,"title":"HID Fargo HDP6600","genre":"impressora", "pseudo":"hdp6600", "subt":"Imprime sem bordas",
+"rendimento":"null",
+"tipo":"null",
+"marca":"HID FARGO",
+"subt2":"Impressão Dual-Sided ",
+"impComp":"null",
+"ribbonComp":["084911", "084900"],
+"descriptions":
+        [
+            "A Impressora FARGO® DTC1250e Single-Side é uma solução compacta de impressão, projetada para operação descomplicada. Com capacidade de imprimir em cores vibrantes, monocromáticas e com reimpressão em preto, oferece opções adicionais para codificação de tarja magnética e personalização de chip (módulo smart card). Além disso, a conectividade inclui opções Ethernet e Wi-Fi.",
+            "Ideal para a emissão eficiente e segura de cartões, crachás e credenciais, a impressora compacta FARGO® DTC1250e Single-Side proporciona qualidade excepcional e baixo custo de manutenção. Atendendo tanto pequenas como médias empresas, é uma escolha inteligente para quem busca eficiência e confiabilidade"
+        ],
+"frases":
+        [
+            "Utilitário de diagnóstico FARGO Workbench com a ferramenta de correspondência de cores Color Assist",
+            "Personaliza até 225 cartões coloridos por hora (YMCKO)",
+            "Personaliza até 600 cartões monocromáticos por hora (K)"
+        ]
+},
+
+{"id":7,"title":"Ribbon #045102","genre":"ribbons", "pseudo":"045102", "subt":"Até 1000 impressões",
+"rendimento":"1000 impressões",
+"tipo":"Black - K",
+"marca":"HID FARGO",
+"subt2":"Para Fargo DTC1250e",
+"impComp":["dtc1250e_dual", "dtc1250e_single"],
+"ribbonComp":"null",
+"descriptions":
+        [
+            "Impressoras compatíveis: DTC1000 e DTC1250e (single e dual)",
+            "Fabricante: HID FARGO",
+            "Rendimento: 1000 faces monocromáticas em preto",
+            "Painéis: Resina (K)"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":8,"title":"Ribbon #045432 - YMCKO ","genre":"ribbons", "pseudo":"045432", "subt":"Até 250 impressões",
+"rendimento":"250 impressões",
+"tipo":"Color - YMCKO",
+"marca":"HID FARGO",
+"subt2":"Para Fargo C-50",
+"impComp":["null"],
+"ribbonComp":"null",
+"descriptions":
+        [
+        "Impressoras compatíveis: Fargo C-50",
+        "Fabricante: HID FARGO",
+        "Rendimento: 250 faces coloridas",
+        "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K), Overlay(O)"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":9,"title":"Ribbon #072214 - YMCK","genre":"ribbons", "pseudo":"072214", "subt":"Até 500 impressões",
+"rendimento":"500 impressões",
+"tipo":"Color - YMCK",
+"marca":"HID FARGO",
+"subt2":"Para HDP5000 (Guardian)",
+"impComp":["hdp5000"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: HDP5000 (MODELO GUARDIAN)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 500 faces coloridas",
+                "Painéis:  Amarelo (Y), Magenta(M), Ciano(C), Preto(K)",
+                "Atenção: este Ribbon deve ser usado juntamente com o Filme #084053",
+                "Atenção (novamente): este Ribbon é compatível com o modelo GUARDIAN da HDP5000"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":10,"title":"Ribbon #045010 - YMCKOK","genre":"ribbons", "pseudo":"045010", "subt":"Até 200 impressões",
+"rendimento":"200 impressões",
+"tipo":"Color - YMCKOK",
+"marca":"HID FARGO",
+"subt2":"Para Fargo DTC1250e",
+"impComp":["dtc1250e_dual", "dtc1250e_single"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis:DTC1000 e DTC1250e (single e dual)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 200 faces coloridas",
+                "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K), Overlay(O), Preto(K)",
+                "Aplicação: ideal para quem imprime frente colorida e verso preto."
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":11,"title":"Ribbon #045106 - W","genre":"ribbons", "pseudo":"045106", "subt":"Até 1000 impressões",
+"rendimento":"1000 impressões",
+"tipo":"White - W",
+"marca":"HID FARGO",
+"subt2":"Para Fargo DTC1250e",
+"impComp":["dtc1250e_dual", "dtc1250e_single"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis:DTC1000 e DTC1250e (single e dual)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 1000 faces monocromáticas em branco",
+                "Painéis: Branco (W)"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":12,"title":"Ribbon #072213 - YMCK","genre":"ribbons", "pseudo":"072213", "subt":"Até 750 impressões",
+"rendimento":"750 impressões",
+"tipo":"Filme Retransfer",
+"marca":"HID FARGO",
+"subt2":"Para HDP5000 (Guardian)",
+"impComp":["hdp5000"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: HDP5000 (MODELO GUARDIAN)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 750 faces (independente da cor)",
+                "Atenção: este Filme deve ser usado juntamente com o Ribbon #084051",
+                "Atenção (novamente): este Filme é compatível com o modelo GUARDIAN da HDP5000"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":13,"title":"Ribbon #045610 - YMCKO ","genre":"ribbons", "pseudo":"045610", "subt":"Até 500 impressões",
+"rendimento":"500 impressões",
+"tipo":"Color - YMCKO",
+"marca":"HID FARGO",
+"subt2":"Para FARGO DTC1500",
+"impComp":["dtc1500"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: DTC1500 (single e dual)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 500 faces coloridas",
+                "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K), Overlay(O)"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":14,"title":"Pelicula Polyguard #082601 ","genre":"ribbons", "pseudo":"082601", "subt":"Até 250 impressões ",
+"rendimento":"250 impressões",
+"tipo":"Polyguard Overlaminate",
+"marca":"HID FARGO",
+"subt2":"Para DTC1500 / HDP5000",
+"impComp":["dtc1500", "hdp5000"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                [
+                        "Impressoras compatíveis:DTC1500 e HDP5000 (single e dual)",
+                        "Fabricante: HID FARGO",
+                        "Rendimento: 250 faces independente da cor",
+                        "Painéis: não possui recorte para chip de contato"
+                    ]
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":15,"title":"Filme Retransfer #084900","genre":"ribbons", "pseudo":"084900", "subt":"Até 1500 impressões",
+"rendimento":"1500 impressões",
+"tipo":"Filme Retransfer",
+"marca":"HID FARGO",
+"subt2":"Para HDP6600",
+"impComp":["hdp6600"],
+"ribbonComp":"null",
+"descriptions":
+[
+        "Impressoras compatíveis: HDP6600",
+        "Fabricante: HID FARGO",
+        "Rendimento: 1500 faces (independente da cor)",
+        "Atenção: este filme deve ser usado juntamente com o Ribbon #084911"
+        ],
+"frases":
+        [
+          ""
+        ]
+},
+{"id":16,"title":"Ribbon #084911 - YMCK ","genre":"ribbons", "pseudo":"084911", "subt":"750 faces coloridas",
+"rendimento":"750 impressões",
+"tipo":"Color - YMCK",
+"marca":"HID FARGO",
+"subt2":"Para HDP6600",
+"impComp":["hdp6600"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Fabricante: HID FARGO",
+                "Rendimento: 750 faces coloridas",
+                "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K)",
+                "Atenção: este Ribbon deve ser usado juntamente com o Filme #084900"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":17,"title":"Ribbon #84051 - YMCK","genre":"ribbons", "pseudo":"084051", "subt":"Até 500 impressões",
+"rendimento":"500 impressões",
+"tipo":"Color - YMCK",
+"marca":"HID FARGO",
+"subt2":"Para HDP5000",
+"impComp":["hdp5000"],
+"ribbonComp":"null",
+"descriptions":
+[
+        "Impressoras compatíveis: HDP5000",
+        "Fabricante: HID FARGO",
+        "Rendimento: 500 faces coloridas",
+        "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K)",
+        "Atenção: este Ribbon deve ser usado juntamente com o Filme #084053"
+        ],
+"frases":
+        [
+          ""
+        ]
+},
+{"id":18,"title":"Cartucho de Tinta - YMC","genre":"ribbons", "pseudo":"cartucho", "subt":"Até 1300 impressões",
+"rendimento":"1300 impressões",
+"tipo":"Color - YMC",
+"marca":"HID FARGO",
+"subt2":"Para Fargo INK1000",
+"impComp":["ink1000"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: HID FARGO INK1000",
+                "Fabricante: HID FARGO",
+                "Rendimento: até 1300 faces coloridas",
+                "Tinta: Amarelo (Y), Magenta(M), Ciano(C). Preto COMPOSTO"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":19,"title":"Ribbon #045000 - YMCKO","genre":"ribbons", "pseudo":"045000", "subt":"Até 250 impressões",
+"rendimento":"250 impressões",
+"tipo":"Color - YMCKO",
+"marca":"HID FARGO",
+"subt2":"Para DTC1250e",
+"impComp":["dtc1250e_dual", "dtc1250e_single"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: DTC1000 e DTC1250e (single e dual)",
+                "Fabricante: HID FARGO",
+                "Rendimento: 250 faces coloridas",
+                "Painéis: Amarelo (Y), Magenta(M), Ciano(C), Preto(K), Overlay(O)"
+        ]
+        ,
+"frases":
+        [
+          ""
+        ]
+},
+{"id":20,"title":"Filme Retransfer #084053 ","genre":"ribbons", "pseudo":"084053", "subt":"Até 750 impressões",
+"rendimento":"750 impressões",
+"tipo":"Filme Retransfer",
+"marca":"HID FARGO",
+"subt2":"Para HDP5000",
+"impComp":["hdp5000"],
+"ribbonComp":"null",
+"descriptions":
+        [
+                "Impressoras compatíveis: HDP5000",
+                "Fabricante: HID FARGO",
+                "Rendimento: 750 faces (independente da cor)",
+                "Atenção: este Filme deve ser usado juntamente com o Ribbon #084051"  
+        ]
+        ,
+"frases":
+        [
+                ""
+        ]
+}
+]
