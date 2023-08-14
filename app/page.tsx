@@ -7,9 +7,11 @@ import ProdutosSection from '@/components/sections/ProdutosSection/ProdutosSecti
 import ServicosSection from '@/components/sections/ServicosSection/ServicosSection'
 import SobreSection2 from '@/components/sections/SobreSection2/SobreSection2'
 import TransitionEffect from '@/components/layoutComponents/TransitionEffect/TransitionEffect'
+import { Analytics } from '@vercel/analytics/react'
 export default function Home() {
   return (
     <main>
+      <Analytics/>      
       <TransitionEffect/>
      <HeroSection/>
      <SobreSection2/>
