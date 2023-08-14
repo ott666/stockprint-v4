@@ -1,8 +1,8 @@
 'use client'
-import Breadcrumb2 from "@/components/Breadcrumb2/Breadcrumb2";
-import ContatoSection from "@/components/Sections/ContatoSection/ContatoSection";
-import Container  from "@/components/Container/Container";
-import TransitionEffect from "@/components/LayoutComponents/TransitionEffect/TransitionEffect";
+import Breadcrumb2 from "@/components/components/Breadcrumb2/Breadcrumb2";
+import ContatoSection from "@/components/sections/ContatoSection/ContatoSection";
+import Container  from "@/components/components/Container";
+import TransitionEffect from "@/components/layoutComponents/TransitionEffect/TransitionEffect";
 import React from "react";
 
 export default function Page(){
